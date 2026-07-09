@@ -1,3 +1,0 @@
-myset = set()
-print(myset)
-
